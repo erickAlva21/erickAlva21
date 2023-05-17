@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi techs, Im Erick Alva! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newgrounds.com%2Fart%2Fview%2Fekiyalko%2Fpequeno-gif-del-dogo&psig=AOvVaw0Jxg12sPruEBVrJIPYP-zx&ust=1684385025194000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICRlKzF-_4CFQAAAAAdAAAAABAE" width=80></h2>
 
 <!--
 **erickAlva21/erickAlva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
