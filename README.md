@@ -9,7 +9,7 @@
 </ul></p>
 <p>I´m interested in the software developing, cybersecurity and Data. So if you have a opensource project, I open with colaborate with you,or if you have a enterprise or lloking for a dev, contact me</p>
 <p>La comunidad y las buenas practicas es la clave para realizar un proyecto exitoso</p>
-<p href="https://www.linkedin.com/in/erickalvaa/">LinkedIn</p>
+<p><a href="https://www.linkedin.com/in/erickalvaa/">LinkedIn</a></p>
 <!--
 **erickAlva21/erickAlva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
