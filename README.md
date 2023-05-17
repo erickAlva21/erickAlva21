@@ -3,12 +3,13 @@
 <p>Computer Systems student at Tecnológico de Estudios Superiores de Coacalco</p>
 <p>Im currently know Java, Python, C++ and cloud technologies as:
 <ul>
-  <li>Azure (AZ-900 Certificated at Invovaccion Vitual Comunity :D</li>
+  <li>Azure (AZ-900 Certificated at Invovaccion Virtual Comunity :D</li>
   <li>Google Cloud</li>
   <li>AWS</li>
 </ul></p>
 <p>I´m interested in the software developing, cybersecurity and Data. So if you have a opensource project, I open with colaborate with you,or if you have a enterprise or lloking for a dev, contact me</p>
 <p>La comunidad y las buenas practicas es la clave para realizar un proyecto exitoso</p>
+<p href="https://www.linkedin.com/in/erickalvaa/">LinkedIn</p>
 <!--
 **erickAlva21/erickAlva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
